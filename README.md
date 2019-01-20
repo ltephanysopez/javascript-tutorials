@@ -21,11 +21,11 @@ Hi there! This repo is a collection of JavaScript practice tutorials, and will m
 |14| **[Multidimensional Arrays](javascript-arrays/07-multidimensional.js)** | JavaScript Arrays - Multidimensional |
 |15| **[Array of Objects](javascript-arrays/08-array-of-objects.js)** | JavaScript Arrays - Array of Objects |
 |16| **[Lists](javascript-data-structures/01-lists.js)** | JavaScript Data Structures - Lists |
-|16| **[Stack](javascript-data-structures/02-stacks.js)** | JavaScript Data Structures - Stacks |
-|16| **[Queue](javascript-data-structures/03-queues.js)** | JavaScript Data Structures - Queue |
-|16| **[Linked Lists](javascript-data-structures/04-linked-lists.js)** | JavaScript Data Structures - Linked Lists |
-|16| **[Doubly Linked Lists](javascript-data-structures/05-doubly-linked-lists.js)** | JavaScript Data Structures - Doubly Linked Lists |
-|16| **[Dictionary](javascript-data-structures/06-dictionaries.js)** | JavaScript Data Structures - Dictionaries |
-|16| **[Hash Tables](javascript-data-structures/07-hash-tables.js)** | JavaScript Data Structures - Hash Tables |
-|16| **[Set](javascript-data-structures/08-sets.js)** | JavaScript Data Structures - Sets |
-|16| **[Binary Tree](javascript-data-structures/09-binary-trees.js)** | JavaScript Data Structures - Binary Trees |
+|17| **[Stack](javascript-data-structures/02-stacks.js)** | JavaScript Data Structures - Stacks |
+|18| **[Queue](javascript-data-structures/03-queues.js)** | JavaScript Data Structures - Queue |
+|19| **[Linked Lists](javascript-data-structures/04-linked-lists.js)** | JavaScript Data Structures - Linked Lists |
+|20| **[Doubly Linked Lists](javascript-data-structures/05-doubly-linked-lists.js)** | JavaScript Data Structures - Doubly Linked Lists |
+|21| **[Dictionary](javascript-data-structures/06-dictionaries.js)** | JavaScript Data Structures - Dictionaries |
+|22| **[Hash Tables](javascript-data-structures/07-hash-tables.js)** | JavaScript Data Structures - Hash Tables |
+|23| **[Set](javascript-data-structures/08-sets.js)** | JavaScript Data Structures - Sets |
+|24| **[Binary Tree](javascript-data-structures/09-binary-trees.js)** | JavaScript Data Structures - Binary Trees |
